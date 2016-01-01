@@ -387,6 +387,24 @@
           45.523358157307676
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "danger",
+        "Name": "Kelly Butte Civil Defense Emergency Operations Center ",
+        "Reason": "Because the City of Portland decided to build a giant underground nuclear bunker.",
+        "Contributor": "Paul M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.55506515502931,
+          45.49966955063677
+        ]
+      }
     }
   ]
 }
